@@ -70,6 +70,8 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 
+
+
 AOS.init({
   duration:600,
   delay:300
